@@ -1,0 +1,55 @@
+# Set A
+
+# 1. A program that converts temperatures from Fahrenheit to Celsius and vice versa.
+# 2. A program that calculates the area and perimeter of a rectangle.
+# 3. A program that generates a random password of a specified length.
+# 4. A program that calculates the average of a list of numbers.
+# 5. A program that checks if a given year is a leap year.
+# 6. A program that calculates the factorial of a number.
+# 7. A program that checks if a given string is a palindrome.
+# 8. A program that sorts a list of numbers in ascending or descending order.
+# 9. A program that generates a multiplication table for a given number.
+# 10. A program that converts a given number from one base to another.
+
+# Set B
+
+# 1. A program that models a bank account, with classes for the account, the customer,
+# and the bank.
+# 2. A program that simulates a school management system, with classes for the
+# students, the teachers, and the courses.
+# 3. A program that reads a text file and counts the number of words in it.
+# 4. A program that reads a CSV file and calculates the average of the values in a specified column.
+# 5. A program that reads an Excel file and prints the data in a tabular format.
+
+# Set C
+# 1. A program that creates a simple web server and serves a static HTML page.
+# 2. A program that creates a web application that allows users to register and login.
+# 3. A program that creates a web application that allows users to upload and download
+# files.
+# 4. A program that creates a web application that displays data from a database in atabular format.
+# 5. A program that creates a web application that accepts user input and sends it to a server-side script for processing.
+
+# Set D
+# 1. A program that creates a web application that uses a template engine to generate dynamic
+# HTML pages.
+# 2. A program that creates a web application that supports AJAX requests and updates the page
+# without reloading.
+# 3. A program that creates a web application that uses Django's built-in debugging features to
+# troubleshoot errors and exceptions.
+# 4. A program that creates a web application that implements user authentication and
+# authorization.
+# 5. A program that creates a web application that integrates with third-party APIs to provide
+# additional functionality.
+
+# Set E
+
+# 1. A program that creates a simple RESTful API that returns a list of users in JSON
+# format.
+# 2. A program that creates a RESTful API that allows users to create, read, update, and
+# delete resources.
+# 3. A program that creates a RESTful API that authenticates users using a JSON Web
+# Token.
+# 4. A program that creates a RESTful API that paginates the results of a query to
+# improve performance.
+# 5. A program that creates a RESTful API that supports data validation and error
+# handling.
